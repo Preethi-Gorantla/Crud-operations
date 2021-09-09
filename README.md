@@ -1,3 +1,8 @@
+This application is built with React.
+Functionality: The CRUD operations are possible with this project. We have a menu bar on the left that, when clicked, brings up a toggleable side navigation bar.
+The firebase DB stores the results of the application's actions.Fetching data from the Firebase DB and displaying in a table manner.
+To accomplish, I used React Router and Axios(to do update and delete, get and post are done using the HTTP request methods),Bootstrap to make the page responsive.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
